@@ -1,0 +1,62 @@
+body {
+    background-color: bisque;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.header-title {
+    color: brown;
+    font-size: 40px;
+    margin: 20px auto 30px auto;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav ul li {
+    margin-right: 10px;
+    display: inline;
+}
+
+.page-title {
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.page-prag {
+    font-size: 20px;
+}
+
+.page-subtitle {
+    color: deeppink;
+    font-size: 20px;
+}
+
+.page-list {
+    margin: 0px auto 0px auto;
+    display: table;
+    padding-left: 0px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.page-list-num {
+    margin: 0 auto;
+    display: table;
+}
+
+.estruman-img {
+    width: 200px;
+}
